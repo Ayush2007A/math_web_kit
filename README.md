@@ -26,3 +26,20 @@ Now import math_web_kit and try the expression again.
 Error solved!
 Python solved the expression without any extra attribute.
 
+# Next Tutorial
+
+Now it you want to add any extra variable like: math, lsl, etc. you can do than with the following attribute:<br>
+
+  lsl=m.set_variables(['lsl'])
+  
+This will make a symbol/variable similar to that of sympy.
+
+When you have learned to set a variable for algebra we can solve linear equation using it.
+
+# m.solve_equation(equation,equals,variables)
+
+solve_equation is a attribute that is used to solve linear equations in one variable.
+
+Example:<br>
+
+  
