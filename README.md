@@ -11,7 +11,7 @@ Current version of math web kit is 1.2 and will be publishing the next version s
 
 # Tutorial
 
-  >>> import math_web_kit as m
+> import math_web_kit as m
 
 Math-web-kit has a ability that when we will import it, package will assign variables for algebra.
 # For Example
