@@ -17,7 +17,7 @@ Math-web-kit has a ability that when we will import it, package will assign vari
 # For Example
 
 First, when you have not imported the library type the below algebraic expression:<br>
-  a*a-b*b
+  'a*a-b*b'
 
 You will get the error variable not defined.
 
