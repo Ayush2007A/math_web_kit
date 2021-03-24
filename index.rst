@@ -1,7 +1,0 @@
-.. _index:
-
-Wikipedia
-=========
-
-Wikipedia
-*********
