@@ -1,3 +1,7 @@
-############
-Math Web Kit
-############
+.. _index:
+
+Wikipedia
+=========
+
+Wikipedia
+*********
