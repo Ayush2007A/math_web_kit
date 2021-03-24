@@ -30,7 +30,7 @@ Python solved the expression without any extra attribute.
 
 Now it you want to add any extra variable like: math, lsl, etc. you can do than with the following attribute:<br>
 
-  lsl=m.set_variables(['lsl'])
+    >>> lsl=m.set_variables(['lsl'])
   
 This will make a symbol/variable similar to that of sympy.
 
@@ -42,4 +42,7 @@ solve_equation is a attribute that is used to solve linear equations in one vari
 
 Example:<br>
 
-  
+    >>> solve_equation(2*x,4,[x])
+    >>> {x: 2}
+
+# Getting the lcm and hcf of a list
