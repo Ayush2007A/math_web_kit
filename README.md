@@ -9,4 +9,20 @@ Current version of math web kit is 1.2 and will be publishing the next version s
 5. Getting ip address of a website
 6. Solving linear equations in one variable.
 
-Please read the documentation 
+# Tutorial
+
+  >>> import math_web_kit as m
+
+Math-web-kit has a ability that when we will import it, package will assign variables for algebra.
+# For Example
+
+First, when you have not imported the library type the below algebraic expression:
+  a*a-b*b
+
+You will get the error variable not defined.
+
+Now import math_web_kit and try the expression again.
+
+Error solved!
+Python solved the expression without any extra attribute.
+
