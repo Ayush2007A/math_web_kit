@@ -16,7 +16,7 @@ Current version of math web kit is 1.2 and will be publishing the next version s
 Math-web-kit has a ability that when we will import it, package will assign variables for algebra.
 # For Example
 
-First, when you have not imported the library type the below algebraic expression:
+First, when you have not imported the library type the below algebraic expression:<br>
   a*a-b*b
 
 You will get the error variable not defined.
