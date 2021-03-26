@@ -44,5 +44,3 @@ Example:<br>
 
     >>> solve_equation(2*x,4,[x])
     >>> {x: 2}
-
-# Getting the lcm and hcf of a list
