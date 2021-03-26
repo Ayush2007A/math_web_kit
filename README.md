@@ -1,6 +1,6 @@
 # Math Web Kit
-Math-Web-Kit is a python library than is used in creating a table to arrange your data, downloading youtube videos with a ease, getting search results from web.
-Current version of math web kit is 1.2 and will be publishing the next version soon. 
+Math-Web-Kit is a python library that is used in creating a table to arrange your data, downloading youtube videos with a ease, getting search results from web.
+Current version of math web kit 1.2 is still in progress will be published soon. 
 # Benefits of Math-Web-Kit
 1. Downloading youtube videos.
 2. Solving algebraic expression and doing factorisation.
